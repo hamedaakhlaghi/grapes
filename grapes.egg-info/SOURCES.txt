@@ -1,8 +1,0 @@
-MANIFEST.in
-README.md
-setup.py
-grapes/__init__.py
-grapes.egg-info/PKG-INFO
-grapes.egg-info/SOURCES.txt
-grapes.egg-info/dependency_links.txt
-grapes.egg-info/top_level.txt
