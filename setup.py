@@ -9,7 +9,8 @@ with open(os.path.join(os.path.dirname(__file__), 'grapes', '__init__.py')) as v
 
 dependencies = [
     'sqlalchemy',
-    'pymlconf'
+    'pymlconf',
+    'appdirs'
 ]
 
 
