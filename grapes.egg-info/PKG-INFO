@@ -1,0 +1,20 @@
+Metadata-Version: 1.1
+Name: grapes
+Version: 0.1.0
+Summary: Simple food accounting
+Home-page: https://github.com/hamedaakhlaghi/grapes
+Author: Vahid Mardani
+Author-email: vahid.mardani@gmail.com
+License: Freeware
+Description: # Grapes
+        
+Platform: any
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: End Users/Desktop
+Classifier: License :: Freeware
+Classifier: Operating System :: OS Independent
+Classifier: Topic :: Database :: Front-Ends
+Classifier: Topic :: Desktop Environment
+Classifier: Topic :: Office/Business :: Groupware
+Classifier: Topic :: Office/Business :: Financial :: Accounting
+Classifier: Programming Language :: Python :: 3.5
